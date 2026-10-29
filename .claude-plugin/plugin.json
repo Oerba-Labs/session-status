@@ -1,0 +1,6 @@
+{
+  "name": "session-status",
+  "version": "0.1.0",
+  "description": "A band above the prompt: what this conversation is about, what it is doing now, and the lanes it has touched with their state",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "session-status",
+  "owner": { "name": "Oerba-Labs" },
+  "plugins": [{ "name": "session-status", "source": "./" }]
+}
